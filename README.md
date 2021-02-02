@@ -1,2 +1,2 @@
 # todolist
-Simple HTML ToDo List
+Simple HTML ToDo List.
